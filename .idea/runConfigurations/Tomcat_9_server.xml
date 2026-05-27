@@ -17,7 +17,7 @@
         <option name="name" value="Apache Tomcat/9.0.117" />
         <!-- Khai báo ...Tomcat_Path... -->
         <!-- Ví dụ "D:/JavaWebServer/apache-tomcat-9.0.117" -->
-        <option name="path" value="...Tomcat_Path..." />
+        <option name="path" value="E:\apache-tomcat-11.0.18\apache-tomcat-11.0.18" />
         <option name="version" value="9.0.117.0" />
       </TomcatInfo>
     </option>
